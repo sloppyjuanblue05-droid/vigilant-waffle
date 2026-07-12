@@ -1,0 +1,16 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "minecraft:overworld", x: -2094, y: 67, z: -2684, time: 1783842452969L, xRot: 6.1500535f, yRot: 51.750633f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: -1186, y: 142, z: -1997, time: 1783840275675L }
+		{ dim: "cataclysm_dimension:cataclysm_pharaohs_bane", x: -50, y: 129, z: 28, time: 1783842088401L }
+		{ dim: "cataclysm_dimension:cataclysm_pharaohs_bane", x: -52, y: 129, z: 26, time: 1783842315394L }
+		{ dim: "cataclysm_dimension:cataclysm_pharaohs_bane", x: -36, y: 131, z: 26, time: 1783842346558L }
+	]
+	homes: { }
+	kit_use_times: { }
+}

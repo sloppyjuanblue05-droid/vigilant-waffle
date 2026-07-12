@@ -1,0 +1,142 @@
+{
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2026-07-12 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "bookofdragons:class_collector": {
+    "criteria": {
+      "tamed_nightfury": "2026-07-12 07:14:15 +0000"
+    },
+    "done": false
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2026-07-12 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-07-12 07:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-07-12 07:14:15 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-07-12 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2026-07-12 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-07-12 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2026-07-12 07:02:00 +0000",
+      "minecraft:meadow": "2026-07-12 07:16:26 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-07-12 07:04:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2026-07-12 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "bookofdragons:dragon_tamer": {
+    "criteria": {
+      "tamed_dragon": "2026-07-12 07:14:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2026-07-12 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "bookofdragons:dragon_master": {
+    "criteria": {
+      "tamed_nightfury": "2026-07-12 07:14:15 +0000"
+    },
+    "done": false
+  },
+  "bookofdragons:root": {
+    "criteria": {
+      "has_book": "2026-07-12 07:14:15 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2026-07-12 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2026-07-12 07:04:07 +0000"
+    },
+    "done": false
+  },
+  "naturescompass:repair_natures_compass": {
+    "criteria": {
+      "has_recipe": "2026-07-12 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-07-12 07:04:07 +0000"
+    },
+    "done": true
+  },
+  "tcrcore:tcrcore": {
+    "criteria": {
+      "tcrcore": "2026-07-12 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2026-07-12 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2026-07-12 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2026-07-12 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

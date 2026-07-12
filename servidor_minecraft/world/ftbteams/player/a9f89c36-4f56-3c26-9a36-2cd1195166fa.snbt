@@ -1,0 +1,17 @@
+{
+	id: "a9f89c36-4f56-3c26-9a36-2cd1195166fa"
+	type: "player"
+	player_name: "Catmilito"
+	ranks: {
+		a9f89c36-4f56-3c26-9a36-2cd1195166fa: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Catmilito"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
